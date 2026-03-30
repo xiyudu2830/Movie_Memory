@@ -1,6 +1,6 @@
 # Movie Memory
 
-Movie Memory is a small full-stack Next.js application built for the take-home exercise.
+Movie Memory is a full-stack Next.js application.
 
 It supports:
 
